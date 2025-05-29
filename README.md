@@ -1,2 +1,1 @@
-# juego con javascript
 
